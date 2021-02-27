@@ -1,3 +1,6 @@
+As imagens estão com as descrições dos passos para distinguir os processosque foram realizados.
+
+
 Testando o primeiro push.
 1111111111111111111111111
 <<<<<<< HEAD
